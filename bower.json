@@ -1,0 +1,21 @@
+{
+    "name": "jQuery.scrollinator",
+    "version": "0.1",
+    "main": "jquery.scrollinator.js",
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".gitattributes",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+    "dependencies": {
+        "jquery": ">=1.10.2",
+    }
+}
